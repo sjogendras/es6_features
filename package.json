@@ -1,0 +1,30 @@
+{
+  "name": "es6_features",
+  "version": "1.0.0",
+  "description": "Contains sample of all es6 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjogendras/es6_features.git"
+  },
+  "keywords": [
+    "es6",
+    "features"
+  ],
+  "author": "Jogendra Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjogendras/es6_features/issues"
+  },
+  "homepage": "https://github.com/sjogendras/es6_features#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
